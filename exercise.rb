@@ -32,7 +32,6 @@ class Exercise
     result.join(" ")
     end
 
-    marklar("The quick brown fox")
   
 
   # Return the sum of all even numbers in the Fibonacci sequence, up to
@@ -51,7 +50,7 @@ class Exercise
   
     sum
   end
-puts even_fibonacci(6)
+
 end
 
 
